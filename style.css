@@ -1,0 +1,54 @@
+.carousols {
+    height: 65vh;
+}
+
+.carousols img {
+    height: 100%;
+}
+
+.s1-img img {
+    width: 100%;
+}
+
+.bt12 {
+    background-color: #c97aad33;
+}
+
+.hot-package {
+    box-shadow: 15px 20px 11px 2px #d9d9d9;
+}
+
+.button1 {
+    background-color: rgba(149, 143, 180, 0.473);
+}
+
+.s-p {
+    position: relative;
+    top: -2.5rem !important;
+}
+
+@media screen and (max-width:767px) {
+    .s-p {
+        top: 0.5rem !important;
+    }
+}
+
+.col4 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.card1 {
+    box-shadow: 2px 16px 20px 10px #d9d9d9 !important;
+    border: none;
+    border-radius: px;
+    border-radius: 17px;
+}
+
+.footer-img img{
+    padding-bottom: 10px;
+    height: 50px;
+    width: 120px;
+}
